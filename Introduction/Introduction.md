@@ -1,5 +1,5 @@
 
-# Simplified Notes on GitHub Actions and Workflows
+# GitHub Actions and Workflows
 
 ---
 
